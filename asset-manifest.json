@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/AdminPanel_Rewwide/static/css/main.9efee301.css",
-    "main.js": "/AdminPanel_Rewwide/static/js/main.1a6e4544.js",
+    "main.css": "/AdminPanel_Rewwide/static/css/main.e4b3156d.css",
+    "main.js": "/AdminPanel_Rewwide/static/js/main.ce3ef8fe.js",
     "static/media/Prod4.jpg": "/AdminPanel_Rewwide/static/media/Prod4.bce0be5fa1337bf32291.jpg",
+    "static/media/loginBG.jpg": "/AdminPanel_Rewwide/static/media/loginBG.9f50650294650a5f8640.jpg",
+    "static/media/logo.png": "/AdminPanel_Rewwide/static/media/logo.ed4248a43a130deaf7ac.png",
     "static/media/s5.jpg": "/AdminPanel_Rewwide/static/media/s5.76fe4908ca5060731c05.jpg",
     "static/media/s6.jpg": "/AdminPanel_Rewwide/static/media/s6.7ac74eb45c306ea857f6.jpg",
     "static/media/s4.jpg": "/AdminPanel_Rewwide/static/media/s4.a71870a341f5d235d3d8.jpg",
@@ -17,11 +19,11 @@
     "static/media/s10.jpg": "/AdminPanel_Rewwide/static/media/s10.89420b1e08886031ca94.jpg",
     "static/media/Prod1.jpg": "/AdminPanel_Rewwide/static/media/Prod1.8309523c906d20ac75ec.jpg",
     "index.html": "/AdminPanel_Rewwide/index.html",
-    "main.9efee301.css.map": "/AdminPanel_Rewwide/static/css/main.9efee301.css.map",
-    "main.1a6e4544.js.map": "/AdminPanel_Rewwide/static/js/main.1a6e4544.js.map"
+    "main.e4b3156d.css.map": "/AdminPanel_Rewwide/static/css/main.e4b3156d.css.map",
+    "main.ce3ef8fe.js.map": "/AdminPanel_Rewwide/static/js/main.ce3ef8fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.9efee301.css",
-    "static/js/main.1a6e4544.js"
+    "static/css/main.e4b3156d.css",
+    "static/js/main.ce3ef8fe.js"
   ]
 }
