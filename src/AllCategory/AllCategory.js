@@ -21,7 +21,15 @@ function AllCategory(){
 <div className='row'>
 <div className="col-md-12 box  mt-3  p-4 shadow ">
        
-       <div className='d-flex'>
+       <div className='d-flex px-0'>
+            {/* search input  */}
+            <div class="col-md-3 input-group mb-3">
+                <input type="search" class="form-control" placeholder="Search"  />
+                <div class="input-group-append">
+                    <span class="input-group-text p-0" id="search-cat">
+                        <button className='btn py-1 fa fa-search'></button></span>
+                </div>
+            </div>
 
             <div className="dropdown mr-3">
                 <select className="form-control" id="category">
@@ -36,11 +44,7 @@ function AllCategory(){
             </div>
 
 
-            <form>
-                <div className="form-group">
-                    <input type="email" className="form-control" id="Search"  placeholder="Search Product" />
-                </div>
-            </form>
+            
                             
         
        </div>

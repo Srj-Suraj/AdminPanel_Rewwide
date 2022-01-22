@@ -27,13 +27,31 @@ function HelpSupport(){
             <div className="modal-dialog" role="document">
                 <div className="modal-content">
                 <div className="modal-header">
-                    <h5 className="modal-title" id="CallPopoUpLabel">call title</h5>
+                    <h5 className="modal-title" id="CallPopoUpLabel">Call Details</h5>
                     <button type="button" className="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div className="modal-body">
-                    ...
+                <div className="modal-body row ">
+                            <form className="col-md-12 text-left "> 
+                                <div className="form-group  ">
+                                    <label >Country </label>
+                                    <select className='form-control'>
+                                        <option>Canada</option>
+                                        <option>America</option>
+                                        <option>China</option>
+                                    </select>
+                                </div>
+                                <div className="form-group ">
+                                    <label >User Number</label>
+                                    <input type="text" className="form-control"  />
+                                </div>
+                                <div className="form-group ">
+                                    <label >Reason</label>
+                                    <textarea type="text" className="form-control" rows='4'  />
+                                </div>
+                                <button type='submit' className='btn btn-primary' >Submit</button>
+                            </form>
                 </div>
                 
             </div>
@@ -57,13 +75,31 @@ function HelpSupport(){
             <div className="modal-dialog" role="document">
                 <div className="modal-content">
                 <div className="modal-header">
-                    <h5 className="modal-title" id="MailPopoUpLabel">mail title</h5>
+                    <h5 className="modal-title" id="MailPopoUpLabel">Mail Details</h5>
                     <button type="button" className="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div className="modal-body">
-                    ...
+                        <form className="col-md-12 text-left "> 
+                                <div className="form-group  ">
+                                    <label >Country </label>
+                                    <select className='form-control'>
+                                        <option>Canada</option>
+                                        <option>America</option>
+                                        <option>China</option>
+                                    </select>
+                                </div>
+                                <div className="form-group ">
+                                    <label >Your mail</label>
+                                    <input type="text" className="form-control"  />
+                                </div>
+                                <div className="form-group ">
+                                    <label >Reason</label>
+                                    <textarea type="text" className="form-control" rows='4'  />
+                                </div>
+                                <button type='submit' className='btn btn-primary' >Submit</button>
+                            </form>
                 </div>
                 
             </div>

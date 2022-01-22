@@ -13,7 +13,7 @@ function SideBar(){
         
 <div className="sideBar shadow">
 
-  <ul className='col-md-12'>
+  <ul className='col-md-12 '>
     <li>
       <Link to="/dashboard" >
         <i className="fa fa-dashboard" />

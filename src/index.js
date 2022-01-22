@@ -34,16 +34,18 @@ import HelpSupport from "./HelpSupport/HelpSupport";
 import Subscription from "./Subscription/Subscription";
 import Dashboard from "./Dashboard/Dashboard";
 import ErrorPage from "./ErrorPage";
+import Login from "./Login/Login";
 
 reactDom.render(
   
   <>
 
     <Router basename="/">
-        <SideBar /> <NavBar /> 
+          <Login />
       <Routes>
         
-        <Route path="/" element={<><SideBar /> <NavBar /> <Dashboard />  </>} />
+        <Route path="/" element={<><Login />  </>} />
+        <Route path="/login" element={<><Login />  </>} />
         <Route path="/chatbox" element={<><SideBar />  <NavBar /><Chatbox /> </>} />
         <Route path="/clients-list" element={<><SideBar />  <NavBar /><ClientsList /> </>} />
         <Route path="/clients-grid" element={<><SideBar />  <NavBar /><ClientsGrid /> </>} />

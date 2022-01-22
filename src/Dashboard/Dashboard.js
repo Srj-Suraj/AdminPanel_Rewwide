@@ -21,9 +21,9 @@ function Dashboard(){
 {/* chart1 */}
 <div className='col-md-8 p-3'>
 <div className='col-md-12 box shadow p-3  chart-box '>
-        <div className='chart-title col-md-12'>
+        <div className='chart-title col-md-12 px-0'>
             <h5 className='mr-auto'>Manufacturers Sales</h5>
-            <Link to='/clients-grid' className="text-primary mr-3" >More</Link>
+            <Link to='/clients-grid' className="btn text-primary mr-3 p-0" >More</Link>
             <div className="dropdown">
                 <div className="dropdown-toggle text-primary " type='button'  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Monthly
@@ -34,11 +34,6 @@ function Dashboard(){
                     <Link to='' className="dropdown-item" >Yearly</Link>
                 </div>
             </div>
-            <select className='form-control'>
-                <option value='1'>Weekly</option>
-                <option value='1'>Monthly</option>
-                <option value='1'>Yearly</option>
-            </select>
         </div>
         {/* Chart */}
         <div className='col-md-12 mt-3 p-4'>
@@ -50,7 +45,7 @@ function Dashboard(){
 {/* chart2 */}
 <div className='col-md-4 p-3'>
 <div className='col-md-12 box shadow p-3  chart-box '>
-        <div className='chart-title col-md-12'>
+        <div className='chart-title col-md-12 px-0'>
             <h5 className='mr-auto'>Total sale</h5>
             
             <div className="dropdown">
@@ -76,13 +71,13 @@ function Dashboard(){
 {/* chart3 */}
 <div className='col-md-8 p-3'>
 <div className='col-md-12 box shadow p-3  chart-box '>
-        <div className='chart-title col-md-12'>
+        <div className='chart-title col-md-12 px-0'>
             <h5 className='mr-auto'>Stockist Sale</h5>
             
             <div className="dropdown d-flex">
                 
                 <div className="dropdown-toggle text-primary mr-3" type='button'  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Office Product
+                    All Products
                 </div>
                 <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     <Link to='' className="dropdown-item" >Electronic</Link>
@@ -111,9 +106,9 @@ function Dashboard(){
 {/* chart4 */}
 <div className='col-md-4 p-3'>
 <div className='col-md-12 box shadow p-3  chart-box '>
-        <div className='chart-title col-md-12'>
+        <div className='chart-title col-md-12 px-0'>
             <h5 className='mr-auto'>Top Clients</h5>
-            <Link to='/clients-grid' className="text-primary mr-3" >More</Link>
+            <Link to='/clients-grid' className="btn p-0 text-primary mr-3" >More</Link>
             <div className="dropdown">
                 <div className="dropdown-toggle text-primary " type='button'  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Monthly
@@ -135,7 +130,7 @@ function Dashboard(){
 {/* chart5 */}
 <div className='col-md-8 p-3'>
 <div className='col-md-12 box shadow p-3  chart-box '>
-        <div className='chart-title col-md-12'>
+        <div className='chart-title col-md-12 px-0'>
             <h5 className='mr-auto'>Retailer Sales</h5>
             {/* product dropdown  */}
             <div className="dropdown">
@@ -170,11 +165,11 @@ function Dashboard(){
 {/* chart6 */}
 <div className='col-md-4 p-3'>
 <div className='col-md-12 box shadow p-3  chart-box '>
-        <div className='chart-title col-md-12 m-0  px-3'>
+        <div className='chart-title col-md-12  px-0'>
             <h5 className='mr-auto '>Total Transactions</h5>
            {/* time frame  */}
             <div className="dropdown">
-                <div className="dropdown-toggle text-primary mr-3" type='button'  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <div className="dropdown-toggle text-primary " type='button'  id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Monthly
                 </div>
                 <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
