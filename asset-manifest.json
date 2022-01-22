@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AdminPanel_Rewwide/static/css/main.9efee301.css",
+    "main.js": "/AdminPanel_Rewwide/static/js/main.f6c6e254.js",
+    "static/media/Prod4.jpg": "/AdminPanel_Rewwide/static/media/Prod4.bce0be5fa1337bf32291.jpg",
+    "static/media/s5.jpg": "/AdminPanel_Rewwide/static/media/s5.76fe4908ca5060731c05.jpg",
+    "static/media/s6.jpg": "/AdminPanel_Rewwide/static/media/s6.7ac74eb45c306ea857f6.jpg",
+    "static/media/s4.jpg": "/AdminPanel_Rewwide/static/media/s4.a71870a341f5d235d3d8.jpg",
+    "static/media/Prod2.jpg": "/AdminPanel_Rewwide/static/media/Prod2.f351b72934ca439ea200.jpg",
+    "static/media/Avtar01.jpg": "/AdminPanel_Rewwide/static/media/Avtar01.0ae4baba9e6d4766b198.jpg",
+    "static/media/dp-1.jpg": "/AdminPanel_Rewwide/static/media/dp-1.063d2f2dd7a1e3dfb980.jpg",
+    "static/media/s1.jpg": "/AdminPanel_Rewwide/static/media/s1.0618fedf0fb7bef7ee23.jpg",
+    "static/media/s3.jpg": "/AdminPanel_Rewwide/static/media/s3.076f026760809ccfcce3.jpg",
+    "static/media/s9.jpg": "/AdminPanel_Rewwide/static/media/s9.821e1512d81677e2c984.jpg",
+    "static/media/Prod3.jpg": "/AdminPanel_Rewwide/static/media/Prod3.9e6b52f08ee9d3630de9.jpg",
+    "static/media/s7.jpg": "/AdminPanel_Rewwide/static/media/s7.5ac5ce53796278f808da.jpg",
+    "static/media/s10.jpg": "/AdminPanel_Rewwide/static/media/s10.89420b1e08886031ca94.jpg",
+    "static/media/Prod1.jpg": "/AdminPanel_Rewwide/static/media/Prod1.8309523c906d20ac75ec.jpg",
+    "index.html": "/AdminPanel_Rewwide/index.html",
+    "main.9efee301.css.map": "/AdminPanel_Rewwide/static/css/main.9efee301.css.map",
+    "main.f6c6e254.js.map": "/AdminPanel_Rewwide/static/js/main.f6c6e254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9efee301.css",
+    "static/js/main.f6c6e254.js"
+  ]
+}
