@@ -1,0 +1,46 @@
+
+
+.mid{
+    -webkit-box-align:center;
+    -webkit-box-pack:center;
+    display:-webkit-box;
+    padding-top: 10px;
+}
+
+
+.subCard{
+    width: 250px;
+    height: 370px;
+    margin:20px;
+    text-align: left;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+
+.subCard ul {
+    margin-top: 20px;
+
+}
+.subCard ul li{
+    color: #acacac;
+
+}
+
+
+.recommended-btn{
+    position:absolute;
+    margin-top: -40px;
+    margin-left: -60px;
+   
+    color: rgb(12, 12, 12);
+    font-weight: 400;
+}
+
+.bg-orange{
+    background-color: rgb(253, 208, 9);
+}
+.border-orange{
+    border-color: rgb(253, 208, 9);
+}

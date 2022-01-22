@@ -1,0 +1,9 @@
+.chart-title{
+    width: 100%;
+    display: flex;
+    border-bottom: 1px solid #a7a6a6;
+}
+
+.chart-box{
+    height: 300px;
+}

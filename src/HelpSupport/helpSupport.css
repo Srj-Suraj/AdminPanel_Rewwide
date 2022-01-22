@@ -1,0 +1,38 @@
+
+
+.mid{
+    -webkit-box-align:center;
+    -webkit-box-pack:center;
+    display:-webkit-box;
+    padding-top: 50px;
+}
+
+
+.helpCard{
+    width: 250px;
+    height: 350px;
+    margin:20px;
+    text-align: center;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+
+.help-icon{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 30px;
+    border-radius: 75px;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 75px;
+    padding:20px
+}
+
+.help-btn{
+    width: 80%;
+    padding-top:10px  ;
+    padding-bottom: 10px;
+    background-color: #f5f6f8;
+}

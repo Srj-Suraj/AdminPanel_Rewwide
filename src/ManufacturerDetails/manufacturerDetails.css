@@ -1,0 +1,48 @@
+.box{
+    
+    background-color: #ffffff;
+    border-radius:20px;
+    box-sizing:border-box;
+}
+
+.manuf-card2{
+    border-radius: 20px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.list-dp{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+
+.textHead{
+    font-weight: bold;
+    font-size: 14px;
+color:#000000;
+margin:0;
+letter-spacing: 0.01em;
+}
+.table-title{
+    font-weight: bold;
+    font-size: 16px;
+color:#000000;
+margin:0;
+letter-spacing: 0.01em;
+}
+
+.text{
+    color: #0000008c;
+    font-size: 14px;
+    margin: 0;
+}
+
+.th{
+    font-size: 14px;
+}
+
+.Request-tbl{ 
+    min-height: 200px;;
+}

@@ -1,0 +1,34 @@
+.GridPersonDP{
+    height: 100px;
+    width: 100px;
+    margin-right: 5px;
+    border-radius: 25px;
+    box-sizing: border-box;
+}
+ 
+
+/* hover container  */
+.overlay {
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+background-color: rgba(50, 53, 59, 0.2);
+overflow: hidden;
+width: 100%;
+height: 0;
+transition: .5s ease;
+}
+
+.HoverContainer:hover .overlay {
+height: 10%;
+}
+
+.chatBTN {
+position: absolute;
+top: 50%;
+left: 50%;
+-webkit-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+}

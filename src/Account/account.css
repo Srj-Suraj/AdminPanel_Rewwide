@@ -1,0 +1,93 @@
+.acc-card{
+    padding-top: 20px ;
+    padding-bottom: 10px ;
+    height: auto;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+
+.MName{
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+text-transform: capitalize;
+letter-spacing: 0.01em;
+margin-top: 10px;
+color: rgba(0, 0, 0, 0.5);
+}
+
+.id{
+    font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+text-transform: capitalize;
+
+letter-spacing: 0.01em;
+
+color: #F24E1E;
+}
+
+.edit-btn{
+    background: #2ED47A;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    color:#ffffff;
+    margin:5px;
+ 
+}
+
+.cli-btn{
+    background: #5E72E4;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    color:#ffffff;
+    margin:5px;
+}
+
+
+.dtl-card{
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+    height: auto;
+    border-radius: 20px;
+   
+    background-color: #ffffff;
+}
+
+.num-tag{
+    font-size: 12px;
+    margin:0;
+    font-weight: bold;
+}
+.tag-title{
+    font-size: 10px;
+}
+
+
+
+.textHead{
+    font-weight: bold;
+    font-size: 14px;
+color:#000000;
+margin:0;
+letter-spacing: 0.01em;
+}
+
+.mytable{
+    border: 0;
+    
+}
+
+.mytable tr th {
+    padding-right: 20px;
+}
+.mytable tr td,th {
+    padding-top: 5px;
+}
