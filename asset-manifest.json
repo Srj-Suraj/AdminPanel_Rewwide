@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AdminPanel_Rewwide/static/css/main.9efee301.css",
-    "main.js": "/AdminPanel_Rewwide/static/js/main.f6c6e254.js",
+    "main.js": "/AdminPanel_Rewwide/static/js/main.1a6e4544.js",
     "static/media/Prod4.jpg": "/AdminPanel_Rewwide/static/media/Prod4.bce0be5fa1337bf32291.jpg",
     "static/media/s5.jpg": "/AdminPanel_Rewwide/static/media/s5.76fe4908ca5060731c05.jpg",
     "static/media/s6.jpg": "/AdminPanel_Rewwide/static/media/s6.7ac74eb45c306ea857f6.jpg",
@@ -18,10 +18,10 @@
     "static/media/Prod1.jpg": "/AdminPanel_Rewwide/static/media/Prod1.8309523c906d20ac75ec.jpg",
     "index.html": "/AdminPanel_Rewwide/index.html",
     "main.9efee301.css.map": "/AdminPanel_Rewwide/static/css/main.9efee301.css.map",
-    "main.f6c6e254.js.map": "/AdminPanel_Rewwide/static/js/main.f6c6e254.js.map"
+    "main.1a6e4544.js.map": "/AdminPanel_Rewwide/static/js/main.1a6e4544.js.map"
   },
   "entrypoints": [
     "static/css/main.9efee301.css",
-    "static/js/main.f6c6e254.js"
+    "static/js/main.1a6e4544.js"
   ]
 }
