@@ -90,8 +90,16 @@ function AddProduct(){
         </div>
         
         <div className="form-group col-md-12 ">
-          <button type='file' className='col-md-12 btn btn-md btn-light border-light pt-3 pb-3'>
-            <i className='fa fa-cloud-upload' /> Drag & Drop or Brouse to Upload</button>
+          
+          <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
+              </div>
+              <div class="custom-file">
+                <input type="file" class="custom-file-input" id="inputGroupFile01" />
+                <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+              </div>
+            </div>
 
             <p className='input-info'> Upload upto 10 images </p>
             <p className='input-info'> Only .png .jpg .jpeg formate allowed  </p>
