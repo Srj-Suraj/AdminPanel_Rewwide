@@ -40,7 +40,7 @@ reactDom.render(
   <>
 
     <Router basename="/">
-        <SideBar /> <NavBar /> <Dashboard />
+        <SideBar /> <NavBar /> 
       <Routes>
         
         <Route path="/" element={<><SideBar /> <NavBar /> <Dashboard />  </>} />
